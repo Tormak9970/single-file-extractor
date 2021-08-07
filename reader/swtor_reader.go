@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"os"
 
-	"github.com/SWTOR-Slicers/tor-reader/logger"
+	"github.com/Tormak9970/single-file-extractor/logger"
 )
 
 type SWTORReader struct {
